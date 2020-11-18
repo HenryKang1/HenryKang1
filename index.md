@@ -1,4 +1,4 @@
-## Sustainable Studygroup for everyone
+## Sustainable study group for everyone
 
 This websites for the study plan and study material link share.
 The topic of study can be for any IT professional such as A.I., Data engineering, Full stack engineering, Python etc. 
