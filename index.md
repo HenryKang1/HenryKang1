@@ -18,9 +18,7 @@ My friend apply this study strategy in Korea and it works well for the adult edu
 ### Study Rule
 Example
 |Time         |Date         |      Title   | Speaker|
-|------------ |------------ | -------------| -------------|
 |14:00 CST |12/05/2020 | Introduction for computer vision with pytorch 1 | Dong Ho Kang|
-
 
 ### Support or Contact
 Please contact the [donghok415@gmail.com](www.gmail.com) if you want to join the study.
