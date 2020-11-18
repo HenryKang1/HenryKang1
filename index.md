@@ -23,5 +23,5 @@ Example
 
 
 ### Support or Contact
-Please contact the [donghok415@gmail.com](donghok415@gmail.com) if you want to join the study.
+Please contact the [donghok415@gmail.com](www.gmail.com) if you want to join the study.
 
